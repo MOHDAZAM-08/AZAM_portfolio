@@ -74,6 +74,14 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
+    title: "ShopNow",
+    des: "A Full Stack E-commerce Application leveraging React, Redux, and Tailwind CSS for the frontend, coupled with a Spring Boot backend, to deliver a seamless shopping experience with features like secure authentication, product management, dynamic cart functionality, and an intuitive admin dashboard.",
+    img: "/shopNow.png",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg","/node.svg","mongo.svg"],
+    link: "https://shop-now-frontend-1tfl.vercel.app/",
+  },
+  {
+    id: 2,
     title: "CollegeEazy",
     des: "Full stack project which provide notes of B tech . front-end in full on React and backend is full on SpringBoot",
     img: "/college.png",
@@ -81,7 +89,7 @@ export const projects = [
     link: "https://collegeeazy.vercel.app/",
   },
   {
-    id: 2,
+    id: 3,
     title: "The Design Yard",
     des: "It's a Company's portfolio website which deals with Interior Design. Monthly 500+ of users visit this Website.",
     img: "/design.png",
@@ -89,7 +97,7 @@ export const projects = [
     link: "https://thedesignyard.co.in/",
   },
   {
-    id: 3,
+    id: 4,
     title: "Unityhealthsystem",
     des: "A freelance project,Enhanced a React JS-based portfolio website, boosting traffic by 50% and conversions by 20%.",
     img: "/unity.png",
@@ -97,7 +105,7 @@ export const projects = [
     link: "https://unityhealthsystem.com/",
   },
   {
-    id: 4,
+    id: 5,
     title: "Primecarealliance",
     des: "A freelance project,Enhanced a React JS-based portfolio website, boosting traffic by 50% and conversions by 20%.",
     img: "/pcl.png",
@@ -105,7 +113,7 @@ export const projects = [
     link: "https://www.primecarealliance.com/",
   },
   {
-    id: 5,
+    id: 6,
     title: "Apple-Watch_showcase",
     des: "I have just finished a new website project where I combined the power of React.js and Three.js to create a dynamic 3D experience.",
     img: "/apple.png",
