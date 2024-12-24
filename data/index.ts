@@ -125,35 +125,36 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Azam was an incredible experience. His deep understanding of development and commitment to delivering outstanding results helped us achieve our goals seamlessly. Azam's ability to solve problems and provide innovative solutions makes him an excellent choice for any project.",
+    name: "Sameer Khan",
+    title: "Freelance Client from Bangalore",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Azam is a talented developer who brings creative ideas and exceptional coding skills to every project. His dedication and ability to communicate complex concepts in simple terms made our collaboration very effective. I look forward to working with him again.",
+    name: "Yash verma",
+    title: "Freelance Client from Mumbai",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Azam's ability to deliver quality work under tight deadlines is impressive. He collaborated with me on a college project, and his technical expertise combined with teamwork skills ensured our success. He is a true asset to any team.",
+    name: "Aarav Sharma",
+    title: "Batchmate at GGSIPU, Delhi",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Azam’s professionalism and attention to detail were evident throughout our project. His grasp of full-stack development helped my business establish a strong online presence. I highly recommend him to anyone looking for top-notch development services.",
+    name: "Shachin singh",
+    title: "Freelance Client from Ahmedabad",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Azam played a vital role in our academic project, always stepping up with innovative ideas and solutions. His technical knowledge and ability to work collaboratively have made him one of the most reliable peers I have worked with.",
+    name: "Shahank Panday",
+    title: "Classmate at GGSIPU, Delhi",
   },
 ];
+
 
 export const companies = [
   {
